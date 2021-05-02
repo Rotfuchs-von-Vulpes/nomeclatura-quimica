@@ -1,0 +1,11 @@
+[
+  {
+    "pregunta": "H_{2}O",
+    "opciones":[
+      {"opcion":"test de test 1", "correcta":false},
+      {"opcion":"test de test 2", "correcta":false},
+      {"opcion":"test de test 3", "correcta":false},
+      {"opcion":"test de test 4", "correcta":true}
+    ]
+  }
+]
